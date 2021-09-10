@@ -1,0 +1,24 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "q001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islamz1214/project-euler.git"
+  },
+  "author": "Zahidul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/islamz1214/project-euler/issues"
+  },
+  "homepage": "https://github.com/islamz1214/project-euler#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tap": "^15.0.9"
+  }
+}
